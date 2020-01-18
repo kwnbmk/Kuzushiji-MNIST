@@ -1,2 +1,1 @@
 # Kuzushiji-MNIST
-# Kuzushiji-MNIST
